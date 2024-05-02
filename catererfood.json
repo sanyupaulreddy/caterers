@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Butter Chicken",
+    "description": "Creamy tomato-based curry with marinated chicken and spices",
+    "price_inr": 300
+  },
+  {
+    "id": 2,
+    "name": "Paneer Tikka",
+    "description": "Grilled chunks of paneer cheese marinated in spices",
+    "price_inr": 250
+  },
+  {
+    "id": 3,
+    "name": "Masala Dosa",
+    "description": "Thin crepe made from fermented rice and lentil batter, filled with spiced potatoes",
+    "price_inr": 150
+  },
+  {
+    "id": 4,
+    "name": "Chole Bhature",
+    "description": "Spiced chickpea curry served with deep-fried bread",
+    "price_inr": 200
+  },
+  {
+    "id": 5,
+    "name": "Biryani",
+    "description": "Fragrant rice dish cooked with spices and meat or vegetables",
+    "price_inr": 350
+  },
+  {
+    "id": 6,
+    "name": "Palak Paneer",
+    "description": "Creamy spinach curry with cubes of paneer cheese",
+    "price_inr": 250
+  },
+  {
+    "id": 7,
+    "name": "Rogan Josh",
+    "description": "Spicy Kashmiri curry with tender pieces of meat",
+    "price_inr": 400
+  },
+  {
+    "id": 8,
+    "name": "Pani Puri",
+    "description": "Hollow fried puris filled with spicy water, tamarind chutney, and chickpeas",
+    "price_inr": 50
+  },
+  {
+    "id": 9,
+    "name": "Aloo Paratha",
+    "description": "Whole wheat flatbread stuffed with spiced mashed potatoes",
+    "price_inr": 100
+  },
+  {
+    "id": 10,
+    "name": "Samosa",
+    "description": "Crispy pastry filled with spiced potatoes, peas, and sometimes meat",
+    "price_inr": 20
+  },
+  {
+    "id": 11,
+    "name": "Rasgulla",
+    "description": "Soft and spongy dessert made from chhena (Indian cottage cheese) soaked in sugar syrup",
+    "price_inr": 10
+  },
+  {
+    "id": 12,
+    "name": "Dhokla",
+    "description": "Steamed fermented rice and chickpea flour cake, often served as a snack",
+    "price_inr": 30
+  },
+  {
+    "id": 13,
+    "name": "Pav Bhaji",
+    "description": "Mashed mixed vegetables cooked with spices, served with buttered bread rolls",
+    "price_inr": 40
+  },
+  {
+    "id": 14,
+    "name": "Vada Pav",
+    "description": "Spicy potato fritter served in a bun with chutneys",
+    "price_inr": 30
+  },
+  {
+    "id": 15,
+    "name": "Jalebi",
+    "description": "Deep-fried batter spirals soaked in sugar syrup, crispy and sweet",
+    "price_inr": 15
+  },
+  {
+    "id": 16,
+    "name": "Pakora",
+    "description": "Deep-fried fritters made with vegetables or meat coated in chickpea flour batter",
+    "price_inr": 25
+  },
+  {
+    "id": 17,
+    "name": "Chicken Biryani",
+    "description": "Fragrant rice dish cooked with spices and chicken",
+    "price_inr": 400
+  },
+  {
+    "id": 18,
+    "name": "Fish Curry",
+    "description": "Spicy curry made with fish and coconut milk, flavored with spices",
+    "price_inr": 350
+  },
+  {
+    "id": 19,
+    "name": "Pulao",
+    "description": "Fragrant rice dish cooked with spices, vegetables, and sometimes meat",
+    "price_inr": 200
+  },
+  {
+    "id": 20,
+    "name": "Aloo Gobi",
+    "description": "Curry made with potatoes and cauliflower, flavored with spices",
+    "price_inr": 150
+  },
+  {
+    "id": 21,
+    "name": "Raita",
+    "description": "Yogurt-based side dish with chopped vegetables and spices",
+    "price_inr": 50
+  },
+  {
+    "id": 22,
+    "name": "Pani Puri",
+    "description": "Hollow fried puris filled with spicy water, tamarind chutney, and chickpeas",
+    "price_inr": 50
+  },
+  {
+    "id": 23,
+    "name": "Chicken Tikka",
+    "description": "Marinated chicken pieces grilled to perfection",
+    "price_inr": 300
+  },
+  {
+    "id": 24,
+    "name": "Dal Makhani",
+    "description": "Creamy lentil curry made with black lentils and kidney beans",
+    "price_inr": 250
+  },
+  {
+    "id": 25,
+    "name": "Naan",
+    "description": "Soft and fluffy Indian bread baked in a tandoor oven",
+    "price_inr": 30
+  },
+  {
+    "id": 26,
+    "name": "Puri",
+    "description": "Fried bread made from wheat flour, often served with curry",
+    "price_inr": 20
+  },
+  {
+    "id": 27,
+    "name": "Rasam",
+    "description": "Spicy South Indian soup made with tamarind, tomatoes, and spices",
+    "price_inr": 40
+  },
+  {
+    "id": 28,
+    "name": "Chicken Curry",
+    "description": "Spicy curry made with chicken, tomatoes, and onions",
+    "price_inr": 350
+  },
+  {
+    "id": 29,
+    "name": "Idli",
+    "description": "Steamed rice cakes, a popular South Indian breakfast item",
+    "price_inr": 40
+  },
+  {
+    "id": 30,
+    "name": "Medu Vada",
+    "description": "Crispy, savory donut-shaped fritters made from lentil batter",
+    "price_inr": 30
+  },
+  {
+    "id": 31,
+    "name": "Chaat",
+    "description": "Assorted savory snacks typically served at roadside stalls",
+    "price_inr": 60
+  },
+  {
+    "id": 32,
+    "name": "Tandoori Chicken",
+    "description": "Chicken marinated in yogurt and spices, cooked in a tandoor oven",
+    "price_inr": 200
+  },
+  {
+    "id": 33,
+    "name": "Samosa Chaat",
+    "description": "Crushed samosas topped with yogurt, chutneys, and spices",
+    "price_inr": 70
+  },
+  {
+    "id": 34,
+    "name": "Malai Kofta",
+    "description": "Creamy curry made with deep-fried vegetable balls and a rich tomato-based sauce",
+    "price_inr": 250
+  },
+  {
+    "id": 35,
+    "name": "Aloo Methi",
+    "description": "Potato and fenugreek leaves stir-fried with spices",
+    "price_inr": 120
+  },
+  {
+    "id": 36,
+    "name": "Gulab Jamun",
+    "description": "Soft and spongy milk-based dessert balls soaked in sugar syrup",
+    "price_inr": 20
+  },
+  {
+    "id": 37,
+    "name": "Pav Bhaji",
+    "description": "Mashed mixed vegetables cooked with spices, served with buttered bread rolls",
+    "price_inr": 60
+  },
+  {
+    "id": 38,
+    "name": "Chana Masala",
+    "description": "Spicy chickpea curry with tomatoes, onions, and spices",
+    "price_inr": 150
+  },
+  {
+    "id": 39,
+    "name": "Rajma Chawal",
+    "description": "Kidney bean curry served with steamed rice",
+    "price_inr": 180
+  },
+  {
+    "id": 40,
+    "name": "Papdi Chaat",
+    "description": "Crispy fried dough wafers served with boiled potatoes, yogurt, and chutneys",
+    "price_inr": 50
+  },
+  {
+    "id": 41,
+    "name": "Baingan Bharta",
+    "description": "Smoky mashed eggplant cooked with tomatoes, onions, and spices",
+    "price_inr": 200
+  },
+  {
+    "id": 42,
+    "name": "Dal Tadka",
+    "description": "Yellow lentil curry tempered with spices, garlic, and onions",
+    "price_inr": 120
+  },
+  {
+    "id": 43,
+    "name": "Aloo Matar",
+    "description": "Curry made with potatoes and peas, flavored with spices",
+    "price_inr": 100
+  },
+  {
+    "id": 44,
+    "name": "Pongal",
+    "description": "South Indian rice dish made with rice, lentils, and spices",
+    "price_inr": 80
+  },
+  {
+    "id": 45,
+    "name": "Mango Lassi",
+    "description": "Refreshing yogurt-based drink flavored with mango pulp",
+    "price_inr": 60
+  },
+  {
+    "id": 46,
+    "name": "Pav Bhaji",
+    "description": "Mashed mixed vegetables cooked with spices, served with buttered bread rolls",
+    "price_inr": 70
+  },
+  {
+    "id": 47,
+    "name": "Mutton Curry",
+    "description": "Spicy curry made with mutton, tomatoes, and onions",
+    "price_inr": 400
+  },
+  {
+    "id": 48,
+    "name": "Poori",
+    "description": "Deep-fried bread made from wheat flour, often served with curry",
+    "price_inr": 30
+  },
+  {
+    "id": 49,
+    "name": "Ras Malai",
+    "description": "Creamy dessert made with milk, sugar, and paneer cheese",
+    "price_inr": 40
+  },
+  {
+    "id": 50,
+    "name": "Pakora",
+    "description": "Deep-fried fritters made with vegetables or meat coated in chickpea flour batter",
+    "price_inr": 35
+  }
+]
